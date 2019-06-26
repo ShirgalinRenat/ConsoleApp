@@ -4,7 +4,7 @@ import java.sql.Date;
 
 public class Outgoing extends Document {
     /**
-     * destinationout-адресат
+     * destinationout-адресатsaddsad
      * devmethod-способ доставки
      */
     private String destinationout,devmethod;
