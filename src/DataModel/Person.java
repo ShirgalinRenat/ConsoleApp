@@ -1,7 +1,7 @@
 package DataModel;
 //hello
 public class Person implements Comparable<Person> {
-    Private String name;
+    String name;
     public Person(String name){
         this.name=name;
     }
